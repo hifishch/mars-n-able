@@ -1,2 +1,2 @@
-# Powershell-Snippets for SolarWinds RMM
-Various Scripts for SolarWinds RMM released unter GNU GPL 3.0 
+# Powershell-Scripts for MARS Monitoring with Solarwinds RMM
+Various Powershell scripts for aonitoring and automation of MARS (Microsoft Azure Recovery Service / Microsoft Azure Backup) with Solarwinds RMM
