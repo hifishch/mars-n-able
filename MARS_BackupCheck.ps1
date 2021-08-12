@@ -1,4 +1,4 @@
-﻿#Powershell MARS Backup Check for Solarwinds RMM
+﻿#Powershell MARS Backup Check for N-able RMM
 #Author: Andreas Walker andreas.walker@walkerit.ch
 #Licence: GNU General Public License v3.0
 #Version: 1.0.0 / 05.10.2019
